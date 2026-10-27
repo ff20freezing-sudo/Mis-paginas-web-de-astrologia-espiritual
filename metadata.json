@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Akáshico — Origen Estelar",
+  "description": "Plataforma de astrología esotérica, estrellas fijas, linajes starseed, Casa XII, karma y exploración interactiva de registros akáshicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
